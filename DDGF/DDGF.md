@@ -1,4 +1,4 @@
-# Code for [Dual-Distribution Gradient Fusion for Long-Tailed Few-Shot Sonar Image Classification]
+# Code for [A Dual-Distribution Learning Framework for Long-Tailed Few-Shot Sonar Image Classification]
 
 This repository contains the placeholder for the code accompanying the paper:
 
